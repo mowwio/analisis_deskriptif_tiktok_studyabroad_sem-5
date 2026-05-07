@@ -22,7 +22,7 @@ This project analyzes how Indonesian youth interact with "Study Abroad" content 
 * `kamusalay.csv`: Dictionary to fix informal Indonesian words.
 
 ## Data Preprocessing
-We cleaned the data before analysis:
+Cleaned the data before analysis:
 1. **Handling Missing Values**: Fill empty reply counts with 0.
 2. **DateTime Conversion**: Change text time to actual date and hour.
 3. **Text Cleaning**: Remove emojis, numbers, and punctuation.
